@@ -1,7 +1,6 @@
 <a href='none' target="_blank"><img alt='' src='https://img.shields.io/badge/Under dev-100000?style=for-the-badge&logo=&logoColor=white&labelColor=FF0000&color=FF0000'/></a>
 
 <!---Heading--->
-![Image 6](https://drive.google.com/file/d/1A-jYDeMzTZlqhVPFDNf381IzVev1XRyP/view?usp=sharing)
 <p align="center">
   A simple home automation project using esp32<br>
   <a href='https://www.canva.com/design/DAFzlFBbA8w/Mm4hW3mSl3njbyM1p4ljBw/edit?utm_content=DAFzlFBbA8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' target="_blank"><img alt='canva' src='https://img.shields.io/badge/Check_this out!-100000?style=for-the-badge&logo=canva&logoColor=46E5FA&labelColor=050505&color=000000'/></a>
